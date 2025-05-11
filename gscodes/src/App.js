@@ -7,6 +7,8 @@ import Certificates from "./pages/Certificates";
 import Skills from "./pages/Skills";
 import Project from "./pages/Project";
 
+
+
 function App() {
   return (
     <Router>
